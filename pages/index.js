@@ -20,6 +20,11 @@ export default function Home() {
             <a>Click here to navigate to image page!</a>
           </Link>
         </h6>
+        <h6 className="title">
+          <Link href="/posts/self-intro-page">
+            <a>Click here to navigate to self intro page!</a>
+          </Link>
+        </h6>
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
             <h3>Documentation &rarr;</h3>
